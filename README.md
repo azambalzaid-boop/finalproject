@@ -1,1 +1,2 @@
-# finalproject
+finalproject
+This project analyzes the Ames Housing dataset through data cleaning, exploratory analysis, and statistical evaluation of property features. It leverages Python libraries to visualize price trends and calculates cosine similarity to measure feature relationships.
